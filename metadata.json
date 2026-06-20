@@ -1,0 +1,8 @@
+{
+  "name": "Remix: RaeTON Bot",
+  "description": "Telegram Mini App for Referrals, Advertiser Tasks, and TON Earnings Integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
